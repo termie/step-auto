@@ -1,0 +1,9 @@
+name: auto
+version: 0.0.1
+description: be a termie automatically
+keywords:
+  - cosmic
+properties:
+  suggest:
+    type: string
+    required: false
